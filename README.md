@@ -9,3 +9,4 @@ Spinchess is a new variant of chess invented by Matti Campos of 9-Lithium during
 
 ### How does it work?
 Honestly, even after playing the game multiple times, we still are confused by this game, but at least we have a set of rules established. It just gets... a little confusing.
+![ChessBoard](https://user-images.githubusercontent.com/112594470/189010187-ece846cf-16e1-4aea-9e84-e43968b8e959.png)
