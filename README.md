@@ -1,4 +1,3 @@
-# RbRealMateum
 # The Best Project Of All Time
 ## The Complications Of A Chess Variant
 
