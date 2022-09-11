@@ -9,3 +9,17 @@ Almost everyone knows the game of chess. If not, then hopefully everyone has at 
 For reference, look at the image below.
 
 ![ChessBoard](https://user-images.githubusercontent.com/112594470/189010187-ece846cf-16e1-4aea-9e84-e43968b8e959.png)
+
+##Website Outline
+
+I. Homepage
+  - About the Game
+  -   TK
+ 
+II. How To Play
+  - How To Play
+  - Rules
+
+III. Demonstration Game
+  - TK
+  - TK
