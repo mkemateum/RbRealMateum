@@ -13,13 +13,13 @@ For reference, look at the image below.
 ## Website Outline
 
 1. Homepage
-  - About the Game
-  -   TK
+    - About the Game
+    -   TK
  
 2. How To Play
-  - How To Play
-  - Rules
+    - How To Play
+    - Rules
 
 3. Demonstration Game
-  - TK
-  - TK
+    - TK
+    - TK
