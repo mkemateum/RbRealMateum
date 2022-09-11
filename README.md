@@ -5,6 +5,7 @@ Almost everyone knows the game of chess. If not, then hopefully everyone has at 
 1. 2x2 area includes the king
 2. The 2x2 area overlaps with another
 3. It goes over the line which separates the chess board in half.
+
 For reference, look at the image below.
 
 ![ChessBoard](https://user-images.githubusercontent.com/112594470/189010187-ece846cf-16e1-4aea-9e84-e43968b8e959.png)
