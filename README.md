@@ -16,9 +16,9 @@ For reference, look at the image below.
    - About the Game
    -   TK
  
-2. How To Play
-   - How To Play
+2. Gameplay
    - Rules
+   - How To Play
 
 3. Demonstration Game
    - TK
