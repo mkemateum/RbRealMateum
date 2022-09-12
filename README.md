@@ -2,8 +2,8 @@
 ## The Complications Of A Certain Chess Variant
 
 Almost everyone knows the game of chess. If not, then hopefully everyone has at least heard of it. Well some time ago, a few friends somehow invented a new and seemingly original variant of this classic board game, called Spinchess, called Gyration Chess by the humorous. Spinchess is a new variant of chess invented by Matti Campos of 9-Lithium during a game night at the Boys Residence Hall Annex 2, which involves the pieces rotating around set 2x2 areas all over the board. Rotation isn't allowed when:
-1. 2x2 area includes the king
-2. The 2x2 area overlaps with another
+1. 2x2 area includes the king.
+2. The 2x2 area overlaps with another 2x2 area.
 3. It goes over the line which separates the chess board in half.
 
 For reference, look at the image below.
