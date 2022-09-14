@@ -14,15 +14,17 @@ For reference, look at the image below.
 
 1. Homepage
    - About the Game
-   -   TK
  
 2. Gameplay
    - Rules
    - How To Play
 
 3. Demonstration Game
-   - TK
-   - TK
+   - Opening
+   - Midgame
+   - Endgame
+   - Strategies
+   - Demo Game
 
 ## Website Wireframe
 
