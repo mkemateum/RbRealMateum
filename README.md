@@ -13,19 +13,20 @@ For reference, look at the image below.
 ## Website Outline
 
 1. Homepage - The first page that everyone should encounter. This should include the details about the game, and how it was made. Hyperlinks to subpages will be included as the header.
-   - About the Game - 
+   - About the Game 
+
+2. Why play? - This should contain the justifications of Spinchess, and why it's fulfilling and fun to play in general.
  
-2. The Canon - We searched up synonyms for "Rules" and this word came up, so here. This subpage should include how to play the game and its rules so that the visitors wouldn't get lost on trying to play the game.
+3. The Canon - We searched up synonyms for "Rules" and this word came up, so here. This subpage should include how to play the game and its rules so that the visitors wouldn't get lost on trying to play the game.
    - Rules
    - How To Play
 
-3. Gameplay - This subpage should include how a regular game of Spinchess will be played.
-   - Opening, Midgame, Endgame
+4. Gameplay - This subpage should include how a regular game of Spinchess will be played.
+   - Demonstration Game
+  
+Within the gameplay subpage will contain 1 more subpage, 
 
-Within the gameplay subpage will contain 2 more subpages, 
-
-4. Strategies - Showcases the strategies that can be done with specific moves that can headstart the player
-5. Demonstration Game - Showcases the capabilities and limitations of Spinchess
+5. Strategies - Showcases the strategies that can be done with specific moves that can headstart the player
 
 ## Website Wireframe
 
