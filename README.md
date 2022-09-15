@@ -30,4 +30,8 @@ Within the gameplay subpage will contain 1 more subpage,
 
 ## Website Wireframe
 
-</wireframe here>
+![Homepage](/images/Homepage.png)
+
+![Canon Page](/images/Canon Webpage.png)
+
+![Gameplay Page](/images/Gameplay Webpage.png)
