@@ -19,7 +19,7 @@ For reference, look at the image below.
    - Rules
    - How To Play
 
-3. Gameplay- This subpage should include how a regular game of Spinchess will be played.
+3. Gameplay - This subpage should include how a regular game of Spinchess will be played.
    - Opening, Midgame, Endgame
 
 Within the gameplay subpage will contain 2 more subpages, 
