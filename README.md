@@ -19,10 +19,11 @@ For reference, look at the image below.
    - Rules
    - How To Play
 
-3. Gameplay- This subpage should include how a regular game of Spinchess will be played, and various strategies that can be formed. The demo game can include a video that showcases most of the capabilities and limitations of Spinchess.
+3. Gameplay- This subpage should include how a regular game of Spinchess will be played.
    - Opening, Midgame, Endgame
-     4. Strategies
-     5. Demonstration Game
+   Within the subpage will contain 2 more subpages, 
+   4. Strategies - Showcases the strategies that can be done with specific moves that can headstart the player
+   5. Demonstration Game - Showcases the capabilities and limitations of Spinchess
 
 ## Website Wireframe
 
