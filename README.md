@@ -30,10 +30,10 @@ Within the gameplay subpage will contain 1 more subpage,
 
 ## Website Wireframe
 
-![Homepage](RbRealMateum/images/Homepage.png)
+![Homepage](/images/Homepage.png)
 
 
-![Canon Page](RbRealMateum/images/Canon Webpage.png)
+![Canon Page](/images/Canon Webpage.png)
 
 
-![Gameplay Page](RbRealMateum/images/Gameplay Webpage.png)
+![Gameplay Page](/images/Gameplay Webpage.png)
