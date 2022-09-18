@@ -33,7 +33,7 @@ Within the gameplay subpage will contain 1 more subpage,
 ![Homepage](/images/Homepage.png)
 
 
-![Canon Page](../images/Canon Webpage.png)
+![Canon Page](/images/CanonWebpage.png)
 
 
-![Gameplay Page](../images/Gameplay Webpage.png)
+![Gameplay Page](/images/GameplayWebpage.png)
