@@ -1,0 +1,60 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+
+.rotate {
+  animation: rotation 3.5s infinite linear;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: left
+}
+
+img {
+  max-width:100%
+}
+
+.headtext {
+  font-family: Segoe UI;
+  font-size: 25px;
+  padding-left: 40px;
+}
+.nonheadtext {
+  font-family: Segoe UI
+}
+a:link {
+  color: #696969;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #696969;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #696969;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #696969;
+  background-color: transparent;
+  text-decoration: none;
+}
