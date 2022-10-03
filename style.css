@@ -1,14 +1,19 @@
 html, body {
   height: 100%;
   width: 100%;
+  margin: 0;
+  padding: 0;
 }
 
 
 .rotate {
-  animation: rotation 3.5s infinite linear;
+  animation: clrotation 4.2s infinite linear;
+}
+.rotate2 {
+  animation: coclrotation 4.2s infinite linear;
 }
 
-@keyframes rotation {
+@keyframes clrotation {
   from {
     transform: rotate(0deg);
   }
@@ -17,6 +22,18 @@ html, body {
   }
 }
 
+@keyframes coclrotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(-359deg);
+  }
+}
+
+article {
+  font-size: 1.1em
+}
 .container {
   display: flex;
   align-items: center;
@@ -27,13 +44,24 @@ img {
   max-width:100%
 }
 
+.image {
+  padding-left: 30px;
+  padding-top: 15px;
+  padding-right: 10px
+}
+
 .headtext {
   font-family: Segoe UI;
   font-size: 25px;
   padding-left: 40px;
 }
 .nonheadtext {
-  font-family: Segoe UI
+  font-family: Segoe UI;
+  padding-left: 192px;
+  padding-right: 192px
+}
+.quote {
+  font-size: 1.5em
 }
 a:link {
   color: #696969;
@@ -58,3 +86,29 @@ a:active {
   background-color: transparent;
   text-decoration: none;
 }
+
+.cont2 {
+  display: flex;
+  align-items: left;
+  justify-content: left
+}
+.footer {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  background-color: #272522;
+  color: #696969;
+  text-align: left;
+}
+.img2 {
+  padding-top: 15px
+}
+.foottext {
+  font-family: Segoe UI;
+  font-size: 10.53px;
+  padding-left: 40px;
+  line-height: 60%
+}
+
