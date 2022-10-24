@@ -8,7 +8,7 @@ Almost everyone knows the game of chess. If not, then hopefully everyone has at 
 
 For reference, look at the image below.
 
-![ChessBoard](/images/gyrate.png)
+![ChessBoard](/images/ChessBoard.png)
 
 ## Website Outline
 
