@@ -198,3 +198,21 @@ a:active {
   from {opacity: .4} 
   to {opacity: 1}
 }
+
+iframe {
+  display: block;
+}
+
+#algebra {
+  align-items: center;
+  display: block;
+  position: relative;
+  margin: auto;
+  padding: 20px;
+  font-size: 2em;
+  font-weight: bold
+}
+
+#src {
+  font-size: 0.75em
+}
